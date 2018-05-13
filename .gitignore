@@ -1,4 +1,8 @@
-code
+# NPM files
+node_modules/
+jspm_packages/
+
+# Python files
 /.venv
 *.pyc
 __pycache__/
@@ -13,28 +17,13 @@ build
 test_project
 /.vscode/
 .idea
-
 /.pytest_cache/
-
 /.env
-
 /requirements.txt
-
 /test/
-
 /test/
-
 /results.tap
-
 /report.tap
-
 /t.py
-
 /deb_dist/
-
 .tox/
-
-The\ Ultimate\ Guide\ to\ Web\ Scraping\ -\ Second\ Edition/
-*.pdf
-*.mobi
-*.epub
